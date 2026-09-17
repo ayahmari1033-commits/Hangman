@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class angmanConcepts {
+public class hangmanConcepts {
     private String phrase;
     private String phraseView;
     private Set<Character> guessedLetters;
